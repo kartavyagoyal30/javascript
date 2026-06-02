@@ -37,6 +37,34 @@ Goyal`;
 
 // console.log(str.replace('a', 's'));
 
-const names="Rohit,Mohit,Suraj,Rohan,Anjali";
+// const names="Rohit,Mohit,Suraj,Rohan,Anjali";
 
-console.log(names.split(','));
+// console.log(names.split(','));
+
+//Date 
+
+// const now=new Date();
+// console.log(now);
+// console.log(now.toString());
+// console.log(now.toLocaleString());
+// console.log(now.getDay());
+// console.log(now.getDate());
+
+//days: Mon-tue(1 based)
+//months: 0-11
+
+//year month day hour minute second millisecond
+// const now=new Date(2026,5,1,12,4,20,123);
+// console.log(now.toString());
+
+// const now=Date.now();
+// const dates=new Date(now);
+// console.log(dates.toString());
+// const dates =new Date(0);
+// console.log(dates);
+
+// const dates=new Date(-123456543234);
+// console.log(dates);
+
+
+
